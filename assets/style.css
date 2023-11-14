@@ -16,10 +16,6 @@ h2 {
     text-align: center; 
 }
 
-h2 {
-    color: purple;
-}
-
 img {
     display: block;
     height: 50px;
@@ -41,6 +37,6 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid rgb(224, 210, 8);
-    box-shadow: 5px 10px #FF33F9;
+    border: 5px solid blue;
+    box-shadow: 5px 10px #888888;
 }
